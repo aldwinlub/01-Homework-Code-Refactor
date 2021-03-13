@@ -10,10 +10,10 @@ The accessibility aspect must include semantic HTML which emphasizes that commun
 
 Here is a snippet of the changes that I made in the index.html file:
 
-![My body of the index.html file.](./assests/images/01-HW-Code-Refactor-html.png)
+![My body of the index.html file.](./assets/images/01-HW-Code-Refactor-html.png)
 
 Here is a snippet of the changes that I made in the style.css file:
-![The majority of the changes that I made in the style.css file.](./assests/images/01-HW-Code-Refactor-css.png)
+![The majority of the changes that I made in the style.css file.](./assets/images/01-HW-Code-Refactor-css.png)
 
 Lastly, here is the overview of the Horiseon website from my GitHub Pages:
 
